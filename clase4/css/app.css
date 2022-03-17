@@ -1,0 +1,19 @@
+body{
+    /* centra body */
+    width: 800px;
+    margin: auto;
+    /* centra body */
+
+
+}
+header{
+    height: 60px;
+    background-color: rgb(255, 208, 244);
+}
+main{
+    min-height: 575px;
+}
+footer{
+    height: 100px;
+    background-color: rgb(255, 208, 244);
+}
