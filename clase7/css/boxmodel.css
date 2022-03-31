@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Nunito, sans-serif;
+    color: #444;
+    font-size: 22px;
+    padding-top: 100px;
+}
+
+main{
+    width: 650px;
+    margin: auto;
+    background-color: #D1EA53;
+    color: #fff;
+
+    padding: 32px;
+
+    border-radius: 30px;
+}
+h1{
+    background-color: #7BC450;
+    /* border: 20px solid #fff; */
+    border-left: 20px solid #fff;
+    padding-left: 32px;
+}
+p{
+    background-color: #95D073;
+    margin: 52px 0px;
+    padding: 12px;
+}
