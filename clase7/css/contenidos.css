@@ -16,6 +16,7 @@ body{
 
 #noticias{
     display: flex;
+    flex-wrap: wrap; /* respete los anchos */
     justify-content: space-between;
 }
 
